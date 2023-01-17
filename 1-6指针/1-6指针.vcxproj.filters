@@ -39,5 +39,11 @@
     <ClCompile Include="16指针的加减运算.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="17[]不是数组专属.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18指针数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

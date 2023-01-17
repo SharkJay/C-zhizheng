@@ -135,6 +135,8 @@
     <ClCompile Include="14多级指针.c" />
     <ClCompile Include="15数组与指针.c" />
     <ClCompile Include="16指针的加减运算.c" />
+    <ClCompile Include="17[]不是数组专属.c" />
+    <ClCompile Include="18指针数组.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
