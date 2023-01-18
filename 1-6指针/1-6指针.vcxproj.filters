@@ -45,5 +45,20 @@
     <ClCompile Include="18指针数组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19指针作为形参.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20指针作为参数的函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21指针作为函数返回值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25指针与字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27字符指针作为形参.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -137,6 +137,11 @@
     <ClCompile Include="16指针的加减运算.c" />
     <ClCompile Include="17[]不是数组专属.c" />
     <ClCompile Include="18指针数组.c" />
+    <ClCompile Include="19指针作为形参.c" />
+    <ClCompile Include="20指针作为参数的函数.c" />
+    <ClCompile Include="21指针作为函数返回值.c" />
+    <ClCompile Include="25指针与字符数组.c" />
+    <ClCompile Include="27字符指针作为形参.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
